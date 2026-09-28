@@ -2,6 +2,9 @@
 
 Um aplicativo mobile desenvolvido no MIT App Inventor para ajudar o usuário a salvar a localização onde estacionou o veículo e encontrar o caminho de volta de forma simples!
 
+> 🎓 **Projeto Académico (Legacy)**
+> Este projeto foi desenvolvido originalmente durante o período universitário para fins de aprendizagem no **MIT App Inventor**. Como o código-fonte original já não se encontra disponível, este repositório serve como documentação visual e portfólio histórico da aplicação.
+
 ## 📱 Screenshots do aplicativo
 
 ![Tela Principal](IMG_20260928_174008_445.jpg)
