@@ -15,6 +15,12 @@ Um aplicativo mobile desenvolvido no MIT App Inventor para ajudar o usuário a s
 
 > **Nota:** As informações de endereço e coordenadas mostradas nas demonstrações foram ocultadas com tarjas por motivos de privacidade e proteção de dados.
 
+## 🧩 Lógica de Programação (Blocos)
+
+Esta foi a estrutura de blocos desenvolvida no MIT App Inventor para controlar a lógica de salvamento e recuperação da localização do veículo:
+
+![Lógica dos Blocos](blocks.png)
+
 
 ## 🛠️ Tecnologias Utilizadas
 * **MIT App Inventor** (Desenvolvimento em blocos de lógica)
